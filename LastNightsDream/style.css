@@ -1,1 +1,21 @@
-// 
+body {
+    background-image: url(https://storage.googleapis.com/www.lastnightsdream.art/Images/background.png);
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 20%;
+    height: 80vmax;
+
+    text-align: center;
+}
+
+footer {
+    
+    background-color: black;
+    
+    display: flexbox;
+
+    text-align: left;
+    color:whitesmoke;
+    line-height: 0em;
+}
